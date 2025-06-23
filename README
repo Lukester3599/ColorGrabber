@@ -1,0 +1,13 @@
+For the python version you will need the following libraries:
+sys
+pyautogui
+mss
+colorama
+
+*SYS is probably already on your computer but try installing it just to be sure
+
+ALL Libraries can be installed with pip or pip3
+
+You shouldn't need anything for the exe version
+
+Feel free to comment your suggestions for new projects or edits to this one or others in the future
